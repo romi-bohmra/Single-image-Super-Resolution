@@ -1,14 +1,3 @@
----
-title: SISR Super-Resolution Tool
-emoji: 🔍
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.29.0
-app_file: run.py
-pinned: false
----
-
 # Single-Image Super-Resolution ×4 — online tool
 
 Upload an image and compare **Bicubic, SRCNN-Y, VDSR-Y and SRGAN-Y**. Every network
